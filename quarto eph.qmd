@@ -270,6 +270,6 @@ Para acceder a los datos del [mercado de trabajo]{.ul} en una serie de tiempo m�
 
 [^10]: Este articulo piensa en el caso particular de las ciencias humanas, pero esta abierto a cualquier otra identificación homóloga.
 
-El repositorio completo para recrear este documento puede encontrarse en [**github**](https://github.com/pedroorden/quarto.eph).
+El repositorio completo para recrear este documento puede encontrarse en [**github**](https://github.com/pedroorden/quarto_eph).
 
 \*[Sociólogo y Científico de Datos](https://portfolioprofesional.netlify.app/ "portfolio").
